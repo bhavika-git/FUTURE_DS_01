@@ -186,7 +186,6 @@ FUTURE_DS_01/
 ## Dashboard Preview
 
 The Power BI dashboard provides an interactive view of business sales performance, profitability, regional trends, product performance, and discount-related profitability.
-## Dashboard Preview
 
 ![Business Sales Performance Dashboard](screenshots/business_sales_dashboard.png)
 
